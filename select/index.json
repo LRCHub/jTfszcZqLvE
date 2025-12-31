@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "ハッピーエンドへの期待は",
+  "base_artist": "マカロニえんぴつ",
+  "createdAt": "2025-12-31T03:11:29.080362Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ハッピーエンドへの期待は",
+      "artist": "Macaroni Empitsu",
+      "has_synced": true,
+      "path": "select/01_ハッピーエンドへの期待は_Macaroni_Empitsu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ハッピーエンドへの期待は",
+      "artist": "マカロニえんぴつ",
+      "has_synced": true,
+      "path": "select/02_ハッピーエンドへの期待は_マカロニえんぴつ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ハッピーエンドへの期待は - Happyendhenokitaiha",
+      "artist": "Macaroni Empitsu",
+      "has_synced": true,
+      "path": "select/03_ハッピーエンドへの期待は_-_Happyendhenokitaiha_Macaroni_Empitsu.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ハッピーエンドへの期待は",
+      "artist": "マカロニえんぴつ",
+      "has_synced": false,
+      "path": "select/pl_01_ハッピーエンドへの期待は_マカロニえんぴつ.txt"
+    }
+  ]
+}
